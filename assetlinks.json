@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "com.incomesplitter.app",
-        "sha256_cert_fingerprints": ["6E:C0:25:A6:EE:88:53:EF:17:F6:42:7C:EE:31:08:92:FF:FC:35:02:C7:6B:AA:96:E3:5A:9F:11:F1:38:70:96"]
+        "sha256_cert_fingerprints": ["E1:29:D4:2B:86:1E:37:3F:93:92:31:AF:26:69:C4:EB:B6:59:93:7B:0E:78:BE:DE:9F:B1:45:7C:3B:9D:4E:68"]
       }
     }]
